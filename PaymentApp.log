@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  app.c
+C:\Users\Family\Desktop\C_Projects\PaymentApp\PaymentApp\Application\app.c(31,32): warning C4098: 'appstart': 'void' function returning a value
+C:\Users\Family\Desktop\C_Projects\PaymentApp\PaymentApp\Application\app.c(45,49): warning C4133: 'function': incompatible types - from 'ST_terminalData_t *' to 'ST_transaction *'
+C:\Users\Family\Desktop\C_Projects\PaymentApp\PaymentApp\Application\app.c(49,13): warning C4098: 'appstart': 'void' function returning a value
+  terminal.c
+  Generating Code...
+  PaymentApp.vcxproj -> C:\Users\Family\Desktop\C_Projects\PaymentApp\PaymentApp\x64\Debug\PaymentApp.exe
